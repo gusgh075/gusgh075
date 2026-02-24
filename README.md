@@ -10,11 +10,11 @@
 <!-- Header -->
 <div align="center">
 
-# 👋 Hey there! I'm **gusgh075** (정현호)
+# 안녕하세요! 저는 **gusgh075** (정현호) 입니다!
 
 ### 🚀 Backend-focused Junior Developer | Java & Spring Enthusiast
 
-> _"코드 한 줄이 세상을 바꾼다고 믿으며, 오늘도 한 줄씩 성장합니다."_
+> _"트렌드를 따라가는 개발자를 목표로 달리는 중입니다!!"_
 
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gusgh075/posts)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gusgh075)
