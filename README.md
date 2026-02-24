@@ -1,9 +1,9 @@
 <!-- Trophy -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=gusgh075&theme=radical&column=7&margin-w=10&margin-h=10" alt="gusgh075's trophies" />
   </a>
-</div>
+</div> -->
 
 ---
 
@@ -24,9 +24,9 @@
 ---
 
 <!-- Most Used Languages -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusgh075&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Most Used Languages" />
-</div>
+</div> -->
 
 ---
 
@@ -98,8 +98,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gusgh075&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="gusgh075's GitHub Stats" height="165" />
-  &nbsp;
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=gusgh075&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="gusgh075's GitHub Stats" height="165" />
+  &nbsp; -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gusgh075&theme=radical&hide_border=true" alt="gusgh075's GitHub Streak" height="165" />
 </div>
 
