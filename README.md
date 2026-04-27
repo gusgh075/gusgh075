@@ -95,6 +95,21 @@
 
 ---
 
+### 🏭 [conk](https://github.com/gusgh075/be22-final-team1-project)
+> 3PL 물류 운영사와 셀러를 위한 창고 관리(WMS) B2B SaaS 플랫폼
+
+입고·재고·출고·정산을 단일 시스템으로 통합해 멀티 셀러 화물의 운영 복잡도를 줄이는 창고 관리 솔루션입니다.
+
+**🔧 담당 역할 — CI/CD 파이프라인 · 외부 API 연동 · 알림 서비스**
+
+- **CI/CD 자동화**: GitHub Actions로 프론트엔드(S3 + CloudFront) 및 백엔드(Docker Hub → ArgoCD) 배포 파이프라인 구성
+- **외부 API 연동**: EasyPost(배송), Shopify API 연결 구현
+- **알림 서비스**: 재고·배송 이벤트 기반 알림 시스템 구현
+
+`Java 21` `Spring Boot 3.5` `Vue 3` `MariaDB` `Redis` `Kafka` `Docker` `Kubernetes` `AWS ALB` `AWS S3` `CloudFront` `ArgoCD` `GitHub Actions`
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
