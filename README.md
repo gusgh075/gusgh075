@@ -11,6 +11,7 @@
 <div align="center">
 
 # 안녕하세요! 저는 **gusgh075** (정현호) 입니다!
+<img width=10% alt="Gemini_Generated_Image_ey743oey743oey74" src="https://github.com/user-attachments/assets/7dce90b6-5681-4f47-85ce-ad792c07f8c4" />
 
 ### 🚀 Backend-focused Junior Developer | Java & Spring Enthusiast
 
