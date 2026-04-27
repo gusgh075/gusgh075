@@ -1,20 +1,21 @@
 <!-- Trophy -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=gusgh075&theme=radical&column=7&margin-w=10&margin-h=10" alt="gusgh075's trophies" />
   </a>
-</div>
+</div> -->
 
 ---
 
 <!-- Header -->
 <div align="center">
 
-# 👋 Hey there! I'm **gusgh075** (정현호)
+# 안녕하세요! 저는 **gusgh075** (정현호) 입니다!
+<img width=10% alt="Gemini_Generated_Image_ey743oey743oey74" src="https://github.com/user-attachments/assets/7dce90b6-5681-4f47-85ce-ad792c07f8c4" />
 
 ### 🚀 Backend-focused Junior Developer | Java & Spring Enthusiast
 
-> _"코드 한 줄이 세상을 바꾼다고 믿으며, 오늘도 한 줄씩 성장합니다."_
+> _"트렌드를 따라가는 개발자를 목표로 달리는 중입니다!!"_
 
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gusgh075/posts)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gusgh075)
@@ -24,9 +25,9 @@
 ---
 
 <!-- Most Used Languages -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusgh075&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Most Used Languages" />
-</div>
+</div> -->
 
 ---
 
@@ -113,8 +114,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gusgh075&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="gusgh075's GitHub Stats" height="165" />
-  &nbsp;
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=gusgh075&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="gusgh075's GitHub Stats" height="165" />
+  &nbsp; -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gusgh075&theme=radical&hide_border=true" alt="gusgh075's GitHub Streak" height="165" />
 </div>
 
